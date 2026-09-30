@@ -8,8 +8,8 @@ Developed as part of my practical work in **Ankara University YAZGİT** and prep
 
 | Module | Title | Core Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | Digital Image Foundations | Pixels as Matrices, Color Spaces (RGB, HSV, Grayscale), Intensity Slicing | In Progress |
-| **02** | Spatial Filtering & Convolution | Kernel Operations, Gaussian Blur, Sobel Edge Filters (Scratch vs OpenCV) | Planned |
+| **01** | Digital Image Foundations | Pixels as Matrices, Color Spaces (RGB, HSV, Grayscale), Intensity Slicing | Done |
+| **02** | Spatial Filtering & Convolution | Kernel Operations, Gaussian Blur, Sobel Edge Filters (Scratch vs OpenCV) | In Progress |
 | **03** | Feature & Contour Extraction | Morphological Transforms, Canny Edge Detection, Shape Analysis | Planned |
 | **04** | Target Tracking & Detection | Color-based Segmentation, Bounding Boxes, Autonomous UAV Landing Target | Planned |
 | **05** | Deep Learning Pipelines | Dataset Annotation, YOLO Architecture, Inference Optimization | Planned |
